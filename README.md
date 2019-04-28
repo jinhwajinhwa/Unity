@@ -1,8 +1,10 @@
-# Unity 
+# in Unity Folders.. 
 
--dragPractice: drag items in an inventory 
--First: first try in Unity
--manageVender: earn money by managing venders 
--playingBall: ball control in Unity
--projectBaek: managing restaurant with Baek chef
--Shooting: play flight shooting enemies 
+<ul>
+  <li><b>dragPractice</b>: drag items in an inventory </li>
+  <li><b>First</b>: first try in Unity</li>
+  <li><b>manageVender</b>: earn money by managing venders </li>
+  <li><b>playingBall</b>: ball control in Unity</li>
+  <li><b>projectBaek</b>: managing restaurant with Baek chef</li>
+  <li><b>Shooting</b>: play flight shooting enemies</li>
+</ul>
